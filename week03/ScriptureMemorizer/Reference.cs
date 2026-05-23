@@ -11,7 +11,7 @@ public class Reference
         _book = book;
         _chapter = chapter;
         _verse = verse;
-        _endVerse = 0; 
+        _endVerse = 0;
     }
 
     // Constructor for a range of verses
