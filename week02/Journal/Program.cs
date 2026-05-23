@@ -1,6 +1,5 @@
 using System;
 
-// EXCEEDING REQUIREMENTS: 
 // To exceed the core requirements, I added a "Mood" property to the Entry class.
 // When the user writes a new entry, the program asks for their current mood, 
 // saves it in the entry, and writes it to the text file along with the rest of the data.
